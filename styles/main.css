@@ -1,0 +1,70 @@
+* {margin:0; padding:0; font-family: 'Open Sans', sans-serif;}
+img {border:0px;}
+h1 {font-size: 16px; margin:15px 0px 15px 0px; letter-spacing:0px;}
+h2 {font-size: 14px; background-color: #ced6da;}
+h3 {font-size: 14px; letter-spacing:0px;}
+h4 {font-size: 12px; color:black; letter-spacing:2px;margin-top:20px;}
+p {padding-bottom:5px;}
+td,tr {font-size: 12px; text-align:justify;}
+	.td_popular {font-size: 12px; color:black; text-align:justify;}
+a {color:black; text-decoration:none;}
+a:hover {color:red; text-decoration:underline;}
+ul {margin-top:15px; font-size:16px;font-weight: bold;color:red;}
+li {list-style:square; margin-left:15px;font-size:12px;}
+
+#slogan {
+	position:absolute;
+	color:red;
+	top:195px;
+	left:50%;
+	margin-left:-445px;
+	width:890px;
+	z-index:101;
+}
+#catalog_button {
+	position:absolute;
+	top:240px;
+	left:48%;
+	height:75px;
+	z-index:10000;	
+}
+
+#social_l {float:left;}
+#main_block {
+	position:absolute;
+	top:0px;
+	width:1000px;
+	left:50%;
+	margin-left:-475px;
+	background-color:#f5f8fa;
+	}
+	#h_logo {margin: 0 auto; width:1000px; height:250px; background-color:white;}
+	#h_actions {position:absolute;left:50%;margin-left:-475px; top:15px; width:1000px; height:220px;z-index: 999;text-align: right;}
+	#h_menu {margin: 0 auto; width:1000px; height:40px;color:black;background-color:#b1d6f2;}
+		#h_menu_l {float:left;width:100%;text-align:left;font-size:16px;padding-top:5px;}	
+		.h_menu_l_links {padding-right:5px;}
+		.h_menu_padding {padding:5px 0px 5px 15px;}
+	#t_blank {width:1000px; height:30px; clear:both;}
+	#content_block_l {width:650px; float:left; font-size:14px; text-align:justify;}
+	#content_block_r {width:270px; float:right; font-size:14px; text-align:justify; background-color:#f5f8fa;}
+		.content_inside {padding:20px;}
+	#popular_courses {background-color:;padding:0px;margin-bottom:5px;border-radius:20px;height:115px;}
+	/* Блок с ценами */
+	#price_block {width:440px;background-image:url(../images/bg_blank.png);padding:10px;color:#21546f;
+		border-radius: 10px;
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+}
+
+	
+	#footer {width:1000px;background-color:#b1d6f2;}
+		.content_footer {padding:25px; font-size:16px; color:black;}
+		.footer_l {text-align:left;}
+		.footer_r {text-align:right;}
+
+.classh1{font-size: 19px;margin:15px 0px 15px 0px;letter-spacing:1px;}
+.classh2{font-size: 16px;color:red; letter-spacing:0px;font-weight: bold;font-style: normal;}
+.classh3{font-size: 12px;color:gray; letter-spacing:0px;}
+
+
+		

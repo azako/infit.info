@@ -1,0 +1,9 @@
+User-agent: Yandex
+Disallow: /shop
+Disallow: /styles
+Disallow: /stat
+Disallow: /js
+
+User-agent: Yandex
+Allow: /
+Sitemap: http://infit.info/sitemap.xml
